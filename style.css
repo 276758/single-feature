@@ -5,12 +5,18 @@ body {
     background-image: url('https://example.com/path/to/abstract-pattern.png');
     background-size: cover;
 }
-
+label{
+    font-family: "Calistoga", serif;
+    color:#771300;
+    font-weight: 600;
+    font-size: 20px;
+}
   h1{
     font-family: "Calistoga", serif;
     font-weight: 600;
-    font-size: 100px;;
+    font-size: 100px;
     font-style: normal;
+    color:#771300;
   }
 input {
     display: flex;
