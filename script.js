@@ -2,39 +2,39 @@
 const moodColors = {
     happy: {
         color: "#ffb300ff",        // Goldenrod
-        quote: "Keep your face always toward the sunshine, and shadows will fall behind you."
+        quote: "Keep your face always toward the sunshine, and shadows will fall behind you.  <br>  😊🌞💖🎉✨"
     },
     calm: {
         color: "#ffb3a4ff",         // Peach
-        quote: "Let your heart be still like water, and you will see clarity."
+        quote: "Let your heart be still like water, and you will see clarity.  <br>  😌🌿🪷☁️🧘‍♀️"
     },
     focused: {
         color: "#53a788ff",      // Olive Green
-        quote: "Stay grounded and bloom where you’re planted."
+        quote: "Stay grounded and bloom where you’re planted.  <br>  🎯📚🖥️👓✍️🧘‍♂️"
     },
     excited: {
         color: "#f97b6eff",      // Coral
-        quote: "Throw kindness like confetti!"
+        quote: "Throw kindness like confetti!  <br>  🤩🎆🚀🎉🎊🦋"
     },
     creative: {
         color: "#f1b2ffff",     // Magenta
-        quote: "The world is but a canvas to our imagination."
+        quote: "The world is but a canvas to our imagination.  <br>  🎨💡✨📓🧠🌟"
     },
     sad: {
         color: "#5c2735ff",          // Burgundy
-        quote: "t’s okay to feel what you need to feel, just don’t unpack and live there."
+        quote: "t’s okay to feel what you need to feel, just don’t unpack and live there.  <br>  😢🌧️🥀😞🫠"
     },
     energetic: {
         color: "#82cff0ff",    // Firebrick Red
-        quote: "Sparkle like you mean it!"
+        quote: "Sparkle like you mean it!  <br>  ⚡💥🔥💃🏽🏋️‍♀️☀️"
     },
     relaxed: {
         color: "#e1bd8dff",      // Warm Beige
-        quote: "Take it slow, and breathe easy."
+        quote: "Take it slow, and breathe easy.  <br>  😴🌸🛁🍵🛏️"
     },
     tired: {
         color: "#c1aaa4ff",         // Soft Taupe
-        quote: "Rest your soul; tomorrow needs you at your best."
+        quote: "Rest your soul; tomorrow needs you at your best.  <br>   😴😵‍💫🛌☕🥱💤"
     }
 };
 
