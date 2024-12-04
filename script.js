@@ -1,11 +1,11 @@
 // Mood to color and quote mapping
 const moodColors = {
     happy: {
-        color: "#ffb300ff",        // Goldenrod
+        color: "#FF9B01",        // Goldenrod
         quote: "Keep your face always toward the sunshine, and shadows will fall behind you.  <br>  😊🌞💖🎉✨"
     },
     calm: {
-        color: "#ffb3a4ff",         // Peach
+        color: "#FF846E",         // Peach
         quote: "Let your heart be still like water, and you will see clarity.  <br>  😌🌿🪷☁️🧘‍♀️"
     },
     focused: {
@@ -13,19 +13,19 @@ const moodColors = {
         quote: "Stay grounded and bloom where you’re planted.  <br>  🎯📚🖥️👓✍️🧘‍♂️"
     },
     excited: {
-        color: "#f97b6eff",      // Coral
+        color: "#FA448F",      // Coral
         quote: "Throw kindness like confetti!  <br>  🤩🎆🚀🎉🎊🦋"
     },
     creative: {
-        color: "#f1b2ffff",     // Magenta
+        color: "#D469FF",     // Magenta
         quote: "The world is but a canvas to our imagination.  <br>  🎨💡✨📓🧠🌟"
     },
     sad: {
         color: "#5c2735ff",          // Burgundy
-        quote: "t’s okay to feel what you need to feel, just don’t unpack and live there.  <br>  😢🌧️🥀😞🫠"
+        quote: "It’s okay to feel what you need to feel, just don’t unpack and live there.  <br>  😢🌧️🥀😞🫠"
     },
     energetic: {
-        color: "#82cff0ff",    // Firebrick Red
+        color: "#5EC3F2",    // Firebrick Red
         quote: "Sparkle like you mean it!  <br>  ⚡💥🔥💃🏽🏋️‍♀️☀️"
     },
     relaxed: {
